@@ -1,0 +1,14 @@
+
+/*@font-face*/
+@font-face
+{
+	font-family: "Roboto";
+	src:'fonts/Roboto/Roboto-Regular.ttf';
+}
+.title-s
+{
+	font-weight: 1000;
+	font-size: 18px;
+	 font-family: monospace;
+	 color: blue;
+}
